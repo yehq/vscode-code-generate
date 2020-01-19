@@ -7,6 +7,10 @@
   "engines": {
     "vscode": "^1.38.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehq/vscode-code-generate.git"
+  },
   "categories": [
     "Other"
   ],
