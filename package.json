@@ -3,6 +3,7 @@
   "displayName": "Code Generator",
   "description": "根据模板生成代码",
   "version": "0.0.1",
+  "publisher": "yehq",
   "engines": {
     "vscode": "^1.38.0"
   },
