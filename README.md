@@ -3,7 +3,7 @@
 > Generate Code By Template
 
 
-![](blob:https://www.shipinyasuo.com/721747b1-607e-4ede-92f7-ca7887cddfd7)
+![](https://github.com/yehq/vscode-code-generate/blob/master/public/images/preview-component.gif)
 
 ## 默认模板
 
