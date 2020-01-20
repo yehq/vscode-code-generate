@@ -59,6 +59,7 @@ export default (uri?: vscode.Uri) => {
     }
     vscode.window.showInformationMessage("请选择一个文件夹");
   } catch (e) {
+    console.log(e);
     vscode.window.showErrorMessage(e.message);
   }
 };

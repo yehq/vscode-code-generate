@@ -15,7 +15,7 @@ export default (currentPath: string): Config => {
       .slice(index)
       .reverse()
       .join(sep);
-    const filenames = fs.readdirSync(targetPath);
+    const filenames = targetPath ? fs.readdirSync(targetPath) : "";
     const hasConfigFile = filenames.includes(configFilename);
     if (hasConfigFile) {
       const configPage = join(targetPath, configFilename);
