@@ -2,7 +2,7 @@
   "name": "vscode-code-generate",
   "displayName": "vscode-code-generate",
   "description": "根据模板生成代码",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "yehq",
   "engines": {
     "vscode": "^1.38.0"
